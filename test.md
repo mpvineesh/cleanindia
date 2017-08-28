@@ -1,55 +1,13 @@
 Angularspree Contributors
 ============================================
 
-* **[Chandra Shekhar](https://github.com/zeus999)**
-
-  * [Email](shekharindian099@gmail.com)
-  * [Twitter]
-  
-* **[Pankaj Kumar Rawat](https://github.com/pkrawat1)**
-
-  * [Email](pankaj@aviabird.com)
-  * [Twitter]
-      
-* **[ashish singh](https://github.com/ashish173)**
-
-  * [Email]
-  * [Twitter]
-  
-* **[Kartik Jagdale](https://github.com/kartikjagdale)**
-
-  * [Email]
-  * [Twitter]
-  
-* **[Vineesh M P](https://github.com/mpvineesh)**
-
-  * [Email](vineeshmp@outlook.com)
-  * [Twitter]
- 
-* **[Youssef Sherif](https://github.com/youssefsharief)**
-
-  * [Email](sharief@aucegypt.edu)
-  * [Twitter]  
- 
-* **[Dmitry Teplov](https://github.com/t-p-l-k)**
-
-  * [Email](teplov.work@gmail.com)
-  * [Twitter]  
-  
-* **[mirvel](https://github.com/mirvel)**
-
-  * [Email]
-  * [Twitter]   
-
-* **[Tiep Phan](https://github.com/tieppt)**
-
-  * [Email]
-  * [Twitter]
-  
-* **[Mayor](https://github.com/tieppt)**
-
-  * [Email](adewolemayowa@gmail.com)
-  * [Twitter]
-  
-  
-
+1. **[Chandra Shekhar](https://github.com/zeus999)** | [Twitter]
+2. **[Pankaj Kumar Rawat](https://github.com/pkrawat1)** [Twitter]
+3. **[ashish singh](https://github.com/ashish173)**[Twitter]
+4. **[Kartik Jagdale](https://github.com/kartikjagdale)**[Twitter]
+5. **[Vineesh M P](https://github.com/mpvineesh)**[Twitter]
+6. **[Youssef Sherif](https://github.com/youssefsharief)**[Twitter]
+7. **[Dmitry Teplov](https://github.com/t-p-l-k)**[Twitter]
+8. **[mirvel](https://github.com/mirvel)**[Twitter]
+9. **[Tiep Phan](https://github.com/tieppt)**[Twitter]
+10. **[Mayor](https://github.com/tieppt)**[Twitter]
